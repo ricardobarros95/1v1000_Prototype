@@ -1,0 +1,29 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 M370 (ID=0x6600)
+    Vendor:   ATI
+    VRAM:     2027 MB
+    Driver:   20.19.15.4483
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.159 seconds
+Platform assembly: C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ricardo.Barros\Desktop\Ric\Projects\1v100 Prototype\TestBuilds\1_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 48Hz; virtual: 3840x2170 at -864,-1090
+<RI> Initialized touch support.
+UnloadTime: 2.459263 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3e18 -> priority: 1 
